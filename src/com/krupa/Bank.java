@@ -1,7 +1,7 @@
 package com.krupa;
 
 public interface Bank {
-	
+	//commited
 	void interestRate(double rate);
 	boolean goldLoan();
 	void lockerRate(double rate);
