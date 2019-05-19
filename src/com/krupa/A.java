@@ -7,7 +7,7 @@ public interface A {
 	default void method1() {
 		System.out.println("method1");
 	}
-	//Static method
+	//Static method is allowed
 
 }
 
