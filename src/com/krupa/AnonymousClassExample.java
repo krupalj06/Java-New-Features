@@ -2,6 +2,7 @@ package com.krupa;
 
 public class AnonymousClassExample {
 	public static void main(String[] args) {
+		//Edited by KrupaTest
 		/*Message anonmsg =  new Message(){
 			public void send(String msg) {
 				System.out.println(msg);
