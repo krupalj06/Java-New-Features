@@ -8,6 +8,10 @@ public interface A {
 		System.out.println("method1");
 	}
 	//Static method
+	default Integer add()
+	{
+		System.out.prinln("");	
+	}
 
 }
 
