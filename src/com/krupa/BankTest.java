@@ -2,6 +2,8 @@ package com.krupa;
 
 public class BankTest {
 	
+	//add from someone
+	
 	public static void main(String[] args) {
 		
 		VijayaBank vj = new VijayaBank();
