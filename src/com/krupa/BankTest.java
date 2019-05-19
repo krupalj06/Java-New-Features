@@ -21,6 +21,7 @@ public class BankTest {
 		sd.InternetBanking();
 		
 		Bank.display();
+System.out.println("Welcome to Vijaya Bank");
 		
 	}
 
