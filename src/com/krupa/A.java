@@ -1,5 +1,5 @@
 package com.krupa;
-
+//commented
 public interface A {
 	
 	/*//Abstract method not allowed 
