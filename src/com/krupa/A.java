@@ -1,5 +1,5 @@
 package com.krupa;
-
+//git test
 public interface A {
 	
 	/*//Abstract method not allowed 
